@@ -2,6 +2,7 @@
 
 
 ## How to run the project
+0. portal isn't allowing uploading of dataset, (download the dataset)[https://www.kaggle.com/datasets/andrewmvd/helmet-detection]
 1. setup .venv
 2. install dependencies from requirements.txt file
 3. run the python scripts
